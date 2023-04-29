@@ -8,7 +8,9 @@
 - 😎 Conhecimento em HTML, CSS, JavaScript.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBarros-dev&show_icons=true&theme=dark)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBarros-dev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBarros-dev&hide_progress=true)](https://github.com/AlanBarros-dev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBarros-dev&hide_progress=true)](https://github.com/AlanBarros-dev/github-readme-stats)
+</div>
 
