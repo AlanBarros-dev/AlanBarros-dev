@@ -9,8 +9,8 @@
 
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBarros-dev&show_icons=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanBarros-dev&show_icons=true&theme=dark">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBarros-dev&hide_progress=true)](https://github.com/AlanBarros-dev/github-readme-stats)
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBarros-dev&layout=compact&langs_count=16&theme=dark">
+
 
